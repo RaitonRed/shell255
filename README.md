@@ -1,6 +1,7 @@
 ## Hi there 👋 My Name is Alireza
 
 [![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali0discord&theme=ayu-mirage)](https://github.com/ali0discord/)
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 This is my new Github page  
 I do like programming, & I like to share my ideas with others. My vision is to touch, inspire and influence; through our ideas, services and products to make the world a better place, pixel by pixel, line of code by line of code, experience by experience. With passion!   
