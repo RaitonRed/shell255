@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Gpt tools project**
 - 🌱 I’m currently learning **Machine learning**
-- 🔭 I’m currently working on **SECRET**
-- 🌱 I’m currently learning **HOW TO LIVE**
 
 
 ```
