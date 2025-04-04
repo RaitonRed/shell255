@@ -1,6 +1,6 @@
 ## Hi there 👋 My Name is Alireza
 
-[![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=shell255&theme=ayu-mirage)](https://github.com/ali0discord/)
+[![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=shell255&theme=ayu-mirage)](https://github.com/shell255/)
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 This is my new Github page  
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Gpt tools project**
 - 🌱 I’m currently learning **Machine learning**
 
+
+## Subscribe me on YouTube
 
 ```
 $ whoami
