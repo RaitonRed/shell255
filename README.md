@@ -11,7 +11,7 @@ I do like programming, & I like to share my ideas with others. My vision is to t
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Gpt tools project**
+- 🔭 I’m currently working on **Iris Classifier**
 - 🌱 I’m currently learning **Machine learning**
 
 
