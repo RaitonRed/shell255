@@ -11,7 +11,7 @@
 
 ### 💻 What I'm up to:
 
-- 🔭 Currently working on: **GPT Tools**
+- 🔭 Currently working on: **Nothing :)**
 - 🌱 Learning: **Machine Learning** & **AI-powered Robotics**
 - 🎥 Making content on YouTube: Minecraft builds, timelapses, coding & more!
 
