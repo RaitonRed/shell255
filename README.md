@@ -1,25 +1,27 @@
-## Hi there 👋 My Name is Alireza
+## 👋 Hi there, I'm Alireza (aka RaitonRed)
 
 [![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaitonRed&theme=ayu-mirage)](https://github.com/RaitonRed/)
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
 
-This is my new Github page  
-I do like programming, & I like to share my ideas with others. My vision is to touch, inspire and influence; through our ideas, services and products to make the world a better place, pixel by pixel, line of code by line of code, experience by experience. With passion!   
+🎮 A creative coder & gamer with a passion for AI and pixel-perfect experiences.  
+🚀 On a mission to make the world better – pixel by pixel, line by line, and idea by idea.  
+❤️ Let’s build the future together — with passion!
 
-<!--
-**ali0discord/ali0discord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on **Gpt Tools**
-- 🌱 I’m currently learning **Machine learning**
+### 💻 What I'm up to:
 
+- 🔭 Currently working on: **GPT Tools**
+- 🌱 Learning: **Machine Learning** & **AI-powered Robotics**
+- 🎥 Making content on YouTube: Minecraft builds, timelapses, coding & more!
 
-### Subscribe me on **YouTube**
+---
 
-```
+### 📺 Subscribe to my **YouTube Channel**
+
+```bash
 $ whoami
- 
+
 $$$$$$$\            $$\   $$\                         $$$$$$$\                  $$\ 
 $$  __$$\           \__|  $$ |                        $$  __$$\                 $$ |
 $$ |  $$ | $$$$$$\  $$\ $$$$$$\    $$$$$$\  $$$$$$$\  $$ |  $$ | $$$$$$\   $$$$$$$ |
@@ -28,6 +30,6 @@ $$  __$$<  $$$$$$$ |$$ |  $$ |    $$ /  $$ |$$ |  $$ |$$  __$$< $$$$$$$$ |$$ /  
 $$ |  $$ |$$  __$$ |$$ |  $$ |$$\ $$ |  $$ |$$ |  $$ |$$ |  $$ |$$   ____|$$ |  $$ |
 $$ |  $$ |\$$$$$$$ |$$ |  \$$$$  |\$$$$$$  |$$ |  $$ |$$ |  $$ |\$$$$$$$\ \$$$$$$$ |
 \__|  \__| \_______|\__|   \____/  \______/ \__|  \__|\__|  \__| \_______| \_______|
-                                                                                                                              
+
 01010010 01100001 01101001 01110100 01101111 01101110 01010010 01100101 01100100
 ```
